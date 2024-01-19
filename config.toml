@@ -9,6 +9,17 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+# The theme supports feeds (RSS and ATOM)
+generate_feed = true
+
+# Use `rss.xml` for RSS feeds and `atom.xml` for ATOM.
+feed_filename = "atom.xml"
+
+# Optional: enable tags
+taxonomies = [
+    {name = "tags"}
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
