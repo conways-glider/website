@@ -1,5 +1,6 @@
-# The URL the site will be built for
 base_url = "https://conwaysglider.com"
+theme = "terminimal"
+default_language = "en"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -13,4 +14,23 @@ build_search_index = true
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+logo_text = "Conways Glider"
+accent_color = "green"
+author = "Nia Maxwell"
+# copyright_html = "&copy; 2024 Nia Maxwell (All Rights Reserved)"
+menu_items = [
+    # each of these is optional, name and url are required
+    # $BASE_URL is going to be substituted by base_url from configuration
+    # {name = "blog", url = "$BASE_URL"},
+    # {name = "archive", url = "$BASE_URL/archive"},
+
+    # tags should only be enabled if you have "tags" taxonomy
+    # see documentation below for more details
+    # {name = "tags", url = "$BASE_URL/tags"},
+    {name = "about me", url = "$BASE_URL/about"},
+
+    # set newtab to true to make the link open in new tab
+    {name = "github", url = "https://github.com/conways-glider", newtab = true},
+    {name = "mastodon", url = "https://mastodon.social/@conways_glider", newtab = true},
+    {name = "bluesky", url = "https://bsky.app/profile/conways-glider.bsky.social", newtab = true},
+]
