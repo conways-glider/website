@@ -9,6 +9,8 @@ I'm a software engineer by the name of Nia!
 
 I'm trans-fem, non-binary, and use she/they/it/fae pronouns.
 
+In my spare time, I blacksmith, make music, and work on making my own video games!
+
 My focus areas are:
 
 - Open Source Tooling
