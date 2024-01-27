@@ -15,8 +15,13 @@ My focus areas are:
 - CLI Develoment
 - Developer Tooling
 - Site Reliability Engineering
-- Rust Language :crab:
-- Go Language
+
+My favorite languages are:
+
+- [Rust](https://www.rust-lang.org/) :crab:
+- [Go](https://go.dev/)
+- [Python](https://www.python.org/)
+- [GDScript](https://gdscript.com/)
 
 ## Open Source Projects
 
