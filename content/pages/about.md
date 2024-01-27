@@ -17,3 +17,13 @@ My focus areas are:
 - Site Reliability Engineering
 - Rust Language :crab:
 - Go Language
+
+## Open Source Projects
+
+### CLIs
+
+- [ct](https://github.com/conways-glider/ct) - A config file format transformer
+
+### Libraries
+
+- [identicon-rs](https://github.com/conways-glider/ct) - An identicon generation library
