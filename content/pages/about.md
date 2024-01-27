@@ -7,7 +7,7 @@ path = "about"
 
 I'm a software engineer by the name of Nia!
 
-I'm trans-fem and use she/they/it/fae pronouns.
+I'm trans-fem, non-binary, and use she/they/it/fae pronouns.
 
 My focus areas are:
 
