@@ -3,7 +3,7 @@ title = "About Me"
 path = "about"
 +++
 
-# Conways Glider :crab: :transgender_flag:
+# Nia :crab: :transgender_flag:
 
 I'm a software engineer by the name of Nia!
 
