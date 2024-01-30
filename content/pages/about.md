@@ -33,4 +33,4 @@ My favorite languages are:
 
 ### Libraries
 
-- [identicon-rs](https://github.com/conways-glider/ct) - An identicon generation library
+- [identicon-rs](https://github.com/conways-glider/identicon-rs) - An identicon generation library
