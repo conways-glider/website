@@ -7,7 +7,7 @@ path = "about"
 
 I'm a software engineer by the name of Nia!
 
-I'm trans-fem, non-binary, and use she/they/it/fae pronouns.
+I'm trans-fem, non-binary, and use she/they pronouns.
 
 In my spare time, I blacksmith, make music, and work on making my own video games!
 
@@ -23,7 +23,6 @@ My favorite languages are:
 - [Rust](https://www.rust-lang.org/) :crab:
 - [Go](https://go.dev/)
 - [Python](https://www.python.org/)
-- [GDScript](https://gdscript.com/)
 
 ## Open Source Projects
 
