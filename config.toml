@@ -10,10 +10,10 @@ compile_sass = true
 build_search_index = true
 
 # The theme supports feeds (RSS and ATOM)
-generate_feed = true
+generate_feeds = true
 
 # Use `rss.xml` for RSS feeds and `atom.xml` for ATOM.
-feed_filename = "atom.xml"
+feed_filenames = ["rss.xml", "atom.xml"]
 
 # Optional: enable tags
 taxonomies = [
@@ -44,6 +44,6 @@ menu_items = [
 
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/conways-glider", newtab = true},
-    {name = "mastodon", url = "https://mastodon.social/@conways_glider", newtab = true},
     {name = "bluesky", url = "https://bsky.app/profile/conways-glider.bsky.social", newtab = true},
+    {name = "mastodon", url = "https://mastodon.social/@conways_glider", newtab = true},
 ]
