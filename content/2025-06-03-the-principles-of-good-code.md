@@ -22,7 +22,7 @@ This is probably the most foundational principle in writing readable code. Most 
 
 Simplicity isn't about doing less work, it's about making the code do only what's necessary and no more. A function with a clear purpose, no side effects, and minimal branching is almost always better than a sprawling one that tries to cover every edge case upfront.
 
-It's worth noting that "simple" doesn't always mean "easy." Sometimes the clearest design takes longer to arrive at. It requires stepping back, asking what the code is really doing, and resisting the impulse to abstract too early or solve problems you don't yet have.
+It's worth noting that "simple" doesn't always mean "easy". Sometimes the clearest design takes longer to arrive at. It requires stepping back, asking what the code is really doing, and resisting the impulse to abstract too early or solve problems you don't yet have.
 
 Many of the other principles in this post, from DRY to the Law of Demeter, are in service of this central ideal: reduce complexity, sharpen intent, and leave behind code that's easy to read, easy to change, and hard to misuse.
 
