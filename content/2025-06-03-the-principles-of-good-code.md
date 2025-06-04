@@ -38,9 +38,8 @@ But DRY must be applied with care. Over-zealous abstraction, especially when pre
 
 A good example of DRY in action is the use of generics. A generic function or type introduces some complexity in its definition, but pays for itself by collapsing multiple specialized implementations into one reusable, consistent unit.
 
-> Bad DRY: forcing unrelated code into a common abstraction just because it "looks similar."
->
-> Good DRY: factoring out common behavior that shares real semantic meaning.
+- Bad DRY: forcing unrelated code into a common abstraction just because it "looks similar."
+- Good DRY: factoring out common behavior that shares real semantic meaning.
 
 In practice, it helps to duplicate until the pattern emerges. Not every repetition is worth eliminating but when duplication starts to echo with structure, DRY gives you the vocabulary to refactor responsibly.
 
