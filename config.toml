@@ -30,7 +30,7 @@ render_emoji = true
 logo_text = "Conways Glider"
 accent_color = "green"
 author = "Nia Maxwell"
-copyright_html = "&copy; 2024 Nia Maxwell (All Rights Reserved)"
+copyright_html = "&copy; 2025 Nia Maxwell (All Rights Reserved)"
 menu_items = [
     # each of these is optional, name and url are required
     # $BASE_URL is going to be substituted by base_url from configuration
