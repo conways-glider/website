@@ -11,12 +11,11 @@ I'm trans-femme and use she/they pronouns.
 
 In my spare time, I blacksmith, make music, and work on making my own video games!
 
-My focus areas are:
+My personal focus areas are:
 
 - Open Source Tooling
 - CLI Develoment
 - Developer Tooling
-- Site Reliability Engineering
 
 My favorite languages are:
 
