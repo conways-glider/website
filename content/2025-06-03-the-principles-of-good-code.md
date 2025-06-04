@@ -6,8 +6,6 @@ date = 2025-06-03
 tags = ["coding"]
 +++
 
-# The Principles of Good Code
-
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
 > - Martin Fowler
