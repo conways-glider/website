@@ -57,7 +57,7 @@ One of the most powerful tools in a programmer's toolkit is composition. Small, 
 
 Composition is the antidote to monolithic functions. It allows us to break a task into meaningful pieces, wire them together clearly, and test each piece in isolation. When done right, composed code reads like a sequence of thoughts, not an ocean of control flow.
 
-This philosophy is perhaps most visible in functional programming, where pure functions are chained or piped together to produce elegant transformations. But the idea isn't limited to functional styles. Every good `map().filter().reduce()` pipeline is a love letter to composability. In object-oriented design, composition over inheritance is a guiding principle for flexibility. In UI development, we compose interfaces from components. In systems architecture, we compose services.
+This philosophy is perhaps most visible in functional programming, where pure functions are chained or piped together to produce elegant transformations. But the idea isn't limited to functional styles. Every good `.map().filter().reduce()` pipeline is a love letter to composability. In object-oriented design, composition over inheritance is a guiding principle for flexibility. In UI development, we compose interfaces from components. In systems architecture, we compose services.
 
 > Composition says: Make small things. Then make bigger things out of them.
 
