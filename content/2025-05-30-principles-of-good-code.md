@@ -7,12 +7,6 @@ draft = true
 tags = ["coding"]
 +++
 
-# Writing Notes
-
-- <https://en.wikipedia.org/wiki/SOLID>
-- <https://rust-unofficial.github.io/patterns/additional_resources/design-principles.html#self-documentation>
-- <https://en.wikipedia.org/wiki/Category:Programming_principles>
-
 # The Principles of Good Code
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
