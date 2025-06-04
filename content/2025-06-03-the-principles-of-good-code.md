@@ -36,7 +36,7 @@ But DRY must be applied with care. Over-zealous abstraction, especially when pre
 
 A good example of DRY in action is the use of generics. A generic function or type introduces some complexity in its definition, but pays for itself by collapsing multiple specialized implementations into one reusable, consistent unit.
 
-- Bad DRY: forcing unrelated code into a common abstraction just because it "looks similar."
+- Bad DRY: forcing unrelated code into a common abstraction just because it "looks similar".
 - Good DRY: factoring out common behavior that shares real semantic meaning.
 
 In practice, it helps to duplicate until the pattern emerges. Not every repetition is worth eliminating but when duplication starts to echo with structure, DRY gives you the vocabulary to refactor responsibly.
@@ -139,7 +139,7 @@ The contract consists of three parts:
 - Postconditions: What will be true after the function finishes?
 - Invariants: What must always be true for this object or system?
 
-It's not just about correctness, it's about clarity. DbC makes the expectations between parts of a system explicit, which is invaluable for debugging, testing, and collaboration. It's the difference between "this works if you use it right" and "here's what you can count on."
+It's not just about correctness, it's about clarity. DbC makes the expectations between parts of a system explicit, which is invaluable for debugging, testing, and collaboration. It's the difference between "this works if you use it right" and "here's what you can count on".
 
 In practice, Design by Contract shows up in many places:
 
@@ -248,7 +248,7 @@ But this idea extends beyond the type system:
 - Use test frameworks, schema validators, static analysis, whatever helps encode assumptions and expectations into the system.
 - The more your codebase can prevent bugs instead of finding them, the safer and faster your development becomes.
 
-You don't have to be a type maximalist to benefit. Even dynamic languages have tools: type hints, contracts, runtime guards. What matters is that you shift the burden from convention to structure, from "we remember to do this" to "the system won't let us forget."
+You don't have to be a type maximalist to benefit. Even dynamic languages have tools: type hints, contracts, runtime guards. What matters is that you shift the burden from convention to structure, from "we remember to do this" to "the system won't let us forget".
 
 Taking advantage of your types and systems isn't about trusting tools more than people, it's about designing code so that people don't have to remember every rule, every time.
 
