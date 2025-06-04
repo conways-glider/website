@@ -1,7 +1,6 @@
 +++
 title = "The Principles of Good Code"
 date = 2025-06-03
-draft = true
 
 [taxonomies]
 tags = ["coding"]
