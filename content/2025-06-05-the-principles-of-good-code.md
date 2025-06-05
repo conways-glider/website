@@ -210,11 +210,11 @@ The Law of Demeter (LoD), or principle of least knowledge, encourages low coupli
 - Methods on its parameters
 - Methods on objects it creates
 
-In short: avoid reaching through objects you don't directly own. Code like order.`getCustomer().getAddress().getStreet()` tightly couples your logic to internal structures. If any part of that chain changes, you're at risk of breakage. Instead, consider `order.getShippingStreet()`
+In short: avoid reaching through objects you don't directly own. Code like `order.getCustomer().getAddress().getStreet()` tightly couples your logic to internal structures. If any part of that chain changes, you're at risk of breakage. Instead, consider `order.getShippingStreet()`
 
 Each object handles its own responsibility, and your code becomes easier to maintain.
 
-That said, **method chaining isn't inherently bad**: fluent APIs, builders, and pipelines are useful and often very readable. LoD is less a hard rule and more a reminder: be conscious of how deeply you're reaching. If you're navigating three objects deep, ask whether that knowledge belongs here.
+That said, **method chaining isn't inherently bad**. Fluent APIs, builders, and pipelines are useful and often very readable. LoD is less a hard rule and more a reminder: be conscious of how deeply you're reaching. If you're navigating three objects deep, ask whether that knowledge belongs here.
 
 > Don't avoid chains, avoid assumptions.
 
