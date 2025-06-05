@@ -27,7 +27,7 @@ highlight_code = true
 render_emoji = true
 
 [extra]
-logo_text = "Conways Glider"
+logo_text = "Conways Glider / Nia Maxwell"
 accent_color = "green"
 author = "Nia Maxwell"
 copyright_html = "&copy; 2025 Nia Maxwell (All Rights Reserved)"
