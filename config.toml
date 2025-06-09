@@ -34,13 +34,13 @@ copyright_html = "&copy; 2025 Nia Maxwell (All Rights Reserved)"
 menu_items = [
     # each of these is optional, name and url are required
     # $BASE_URL is going to be substituted by base_url from configuration
-    # {name = "blog", url = "$BASE_URL"},
-    # {name = "archive", url = "$BASE_URL/archive"},
+    {name = "about me", url = "$BASE_URL/about"},
+    {name = "blog", url = "$BASE_URL"},
+    {name = "archive", url = "$BASE_URL/archive"},
 
     # tags should only be enabled if you have "tags" taxonomy
     # see documentation below for more details
-    # {name = "tags", url = "$BASE_URL/tags"},
-    {name = "about me", url = "$BASE_URL/about"},
+    {name = "tags", url = "$BASE_URL/tags"},
 
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/conways-glider", newtab = true},
