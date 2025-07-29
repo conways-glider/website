@@ -25,6 +25,11 @@ My favorite languages are:
 
 ## Open Source Projects
 
+### Websites
+
+- [Copymoticon](https://copymoticon.com/) - A website to copy emoticons to the clipboard
+- [Conways Glider](https://conwaysglider.com) - This website ^-^
+
 ### CLIs
 
 - [ct](https://github.com/conways-glider/ct) - A config file format transformer
