@@ -44,5 +44,5 @@ menu_items = [
 
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/conways-glider", newtab = true},
-    {name = "bluesky", url = "https://bsky.app/profile/conways-glider.bsky.social", newtab = true},
+    {name = "bluesky", url = "https://bsky.app/profile/conwaysglider.com", newtab = true},
 ]
