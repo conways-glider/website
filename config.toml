@@ -31,10 +31,10 @@ light_theme = "github-light"
 dark_theme = "github-dark"
 
 [extra]
-logo_text = "Conways Glider / Nia Maxwell"
+logo_text = "Conways Glider / Nia"
 accent_color = "green"
-author = "Nia Maxwell"
-copyright_html = "&copy; 2025 Nia Maxwell (All Rights Reserved)"
+author = "Nia"
+copyright_html = "&copy; 2025 Nia (All Rights Reserved)"
 menu_items = [
     # each of these is optional, name and url are required
     # $BASE_URL is going to be substituted by base_url from configuration
