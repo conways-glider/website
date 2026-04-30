@@ -1,0 +1,12 @@
+name = "conwaysglider"
+compatibility_date = "2025-03-25"
+
+routes = [
+  { pattern = "conwaysglider.com", custom_domain = true }
+]
+
+[build]
+command = "make build-wrangler"
+
+[assets]
+directory = "./dist"
