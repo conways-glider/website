@@ -41,3 +41,9 @@ My favorite languages are:
 ### Libraries
 
 - [identicon-rs](https://github.com/conways-glider/identicon-rs) - An identicon generation library
+
+## Links
+
+- [GitHub](https://github.com/conways-glider)
+- [Bluesky](https://bsky.app/profile/conwaysglider.com)
+- [ORCID](https://orcid.org/0009-0006-8504-0600)
