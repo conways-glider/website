@@ -22,6 +22,10 @@ My favorite languages are:
 - [Rust](https://www.rust-lang.org/) :crab:
 - [Go](https://go.dev/)
 - [Python](https://www.python.org/)
+  - [uv](https://docs.astral.sh/uv/)
+  - [Ruff](https://docs.astral.sh/ruff/)
+- [TypeScript](https://www.typescriptlang.org/)
+  - [mise](https://mise.en.dev/)
 
 ## Open Source Projects
 
