@@ -9,4 +9,4 @@ routes = [
 command = "make build-wrangler"
 
 [assets]
-directory = "./dist"
+directory = "./public"
