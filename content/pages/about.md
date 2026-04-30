@@ -5,7 +5,7 @@ path = "about"
 
 # Nia :crab: :transgender_flag:
 
-I'm a software engineer by the name of Nia!
+I'm a Staff Software Engineer by the name of Nia!
 
 I'm trans-femme and use she/they pronouns.
 
