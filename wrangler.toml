@@ -6,7 +6,7 @@ routes = [
 ]
 
 [build]
-command = "make build-wrangler"
+command = "make build"
 
 [assets]
-directory = "./public"
+directory = "./site"

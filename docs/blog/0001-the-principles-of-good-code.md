@@ -1,10 +1,8 @@
-+++
-title = "The Principles of Good Code"
-date = 2025-06-05
+---
+icon: lucide/code
+---
 
-[taxonomies]
-tags = ["coding"]
-+++
+# The Principles of Good Code
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
